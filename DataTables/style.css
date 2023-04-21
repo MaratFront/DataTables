@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin:0 auto;
+    padding:30px;
+    border-collapse: collapse;
+}
+table{
+    color:black;
+    box-shadow: 10px solid black;
+    
+}
+thead{
+    background-color: #142680;
+    
+}
+tbody{
+    background:#0983bb;
+}
